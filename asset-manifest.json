@@ -1,7 +1,10 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.05bd5c9a.js",
-  "main.js.map": "static/js/main.05bd5c9a.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.6c21391f.css",
+  "main.css.map": "static/css/main.6c21391f.css.map",
+  "main.js": "static/js/main.5e10842f.js",
+  "main.js.map": "static/js/main.5e10842f.js.map",
+  "static/media/MyGameListShowOff.png": "static/media/MyGameListShowOff.95bff835.png",
+  "static/media/MyGameListShowOffSmall.png": "static/media/MyGameListShowOffSmall.36906eaa.png",
+  "static/media/PhoNomenalShowOff.png": "static/media/PhoNomenalShowOff.be0fbfb2.png",
+  "static/media/PhoNomenalShowOffSmall.png": "static/media/PhoNomenalShowOffSmall.102f85c2.png"
 }
